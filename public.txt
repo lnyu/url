@@ -3,3 +3,4 @@ payload:
   - '+.openai.com'
   - '+.npmjs.com'
   - '+.mikanani.me'
+  - '+.bbwwvip.org'
