@@ -7,4 +7,5 @@ payload:
   - '+.agedm.org'
   - '+.age.tv'
   - '+.agefans.com'
+  - '+.akamaized.net'
 
