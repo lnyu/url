@@ -4,3 +4,7 @@ payload:
   - '+.npmjs.com'
   - '+.mikanani.me'
   - '+.bbwwvip.org'
+  - '+.agedm.org'
+  - '+.age.tv'
+  - '+.agefans.com'
+
