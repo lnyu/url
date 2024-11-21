@@ -1,2 +1,3 @@
 payload:
   - '+.bitwarden.com'
+  - '+.jetbrains.com'
